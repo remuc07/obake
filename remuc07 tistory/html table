@@ -1,0 +1,20 @@
+<table style="border-collapse: collapse; width: 100.814%; height: 87px;" border="1" data-ke-align="alignLeft" data-ke-style="style14">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 8.23564%; height: 17px;">이름</td>
+<td style="width: 17.0564%; height: 17px;">위치</td>
+<td style="width: 17.2832%; height: 17px;">시간</td>
+<td style="width: 21.0871%; height: 17px;">&nbsp;계절</td>
+<td style="width: 10.558%;">날씨</td>
+<td style="width: 42.121%;">가격</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 8.23564%; height: 17px;">&nbsp;</td>
+<td style="width: 17.0564%; height: 17px;">&nbsp;</td>
+<td style="width: 17.2832%; height: 17px;">&nbsp;</td>
+<td style="width: 21.0871%; height: 17px;">&nbsp;</td>
+<td style="width: 10.558%;">&nbsp;</td>
+<td style="width: 42.121%;">- 골드&nbsp;<br />- 철: 골드<br />- 금: 골드<br />- 이리듐: 골드</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,51 @@
+<table data-ke-align="alignLeft" data-ke-style="style4">
+<thead>
+<tr>
+<th style="width: 46px;">행동</th>
+<th style="width: 98px;">영상</th>
+<th style="width: 149px;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 46px;">[##_Image|kage@bPloPl/btsL7pePERR/65lbrZxeaKI4gleJ2bMv6k/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"마법 헤어젤","filename":"download.png"}_##]</td>
+<td style="width: 98px;">마법 헤어젤</td>
+<td style="width: 149px;">[(TR)MagicHairDye]</td>
+</tr>
+<tr>
+<td style="width: 46px;">[##_Image|kage@8bw13/btsL6zP15Sd/iJcJkepdlIvXzzmquaAsG1/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"개구리알","filename":"download (1).png"}_##]</td>
+<td style="width: 98px;">개구리알</td>
+<td style="width: 149px;">[(TR)FrogEgg]</td>
+</tr>
+<tr>
+<td style="width: 46px;">[##_Image|kage@cyiEMx/btsL6Btvx0l/bgJJhao0ExkjLhCzfiYRK1/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"마법 화살통","filename":"download (2).png"}_##]</td>
+<td style="width: 98px;">마법 화살통</td>
+<td style="width: 149px;">[(TR)MagicQuiver]</td>
+</tr>
+<tr>
+<td style="width: 46px;">[##_Image|kage@uLS25/btsL517qwWD/mL5U1AEkcjX6VYmSzLZztK/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"요정 상자","filename":"download (3).png"}_##]</td>
+<td style="width: 98px;">요정 상자</td>
+<td style="width: 149px;">[(TR)FairyBox]</td>
+</tr>
+<tr>
+<td style="width: 46px;">[##_Image|kage@UqkOB/btsL7Nmc58f/FA2fg9KZDPlaIo1KUyiPKk/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"앵무새 알","filename":"download (4).png"}_##]</td>
+<td style="width: 98px;">앵무새 알</td>
+<td style="width: 149px;">[(TR)ParrotEgg]</td>
+</tr>
+<tr>
+<td style="width: 46px;">[##_Image|kage@bUIXbe/btsL7NsYjnX/zEgv7257KeKtGN9dJe1pr1/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"얼음 지팡이","filename":"download (5).png"}_##]</td>
+<td style="width: 98px;">얼음 지팡이</td>
+<td style="width: 149px;">[(TR)IceRod]</td>
+</tr>
+<tr>
+<td style="width: 46px;">[##_Image|kage@bJYAjA/btsL6QYjaDc/07IyByDkIIlcK4uKme3qa1/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"황금 박차","filename":"download (6).png"}_##]</td>
+<td style="width: 98px;">황금 박차</td>
+<td style="width: 149px;">[(TR)IridiumSpur]</td>
+</tr>
+<tr>
+<td style="width: 46px;">[##_Image|kage@d4vsyq/btsL6n94Kvw/lIxEvJA7Dq28w7vrwSmm2k/img.png|CDM|1.3|{"originWidth":16,"originHeight":16,"width":42,"height":42,"alt":"바실리스크 발","filename":"download (7).png"}_##]</td>
+<td style="width: 98px;">바실리스크 발</td>
+<td style="width: 149px;">[(TR)BasiliskPaw]</td>
+</tr>
+</tbody>
+</table>
