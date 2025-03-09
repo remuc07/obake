@@ -1,0 +1,22 @@
+vaporized - 증발
+Melt - 융해
+Overloaded - 과부하
+Electro-Charged - 감전
+Superconduct - 초전도
+swirl - 확산
+healing - 치유
+Bloom - 개화
+Hyperbloom - 만개
+Burgeon - 발화
+Crystallize - 결정 반응
+freeze - 빙결
+
+Pyro - 불
+Cryo - 얼음
+Hydro - 물
+Electro - 번개
+Dendro -풀
+Anemo - 바람
+Geo - 바위
+
+[Character] “실로닌” 성유물 스펙 : 재료, 육성, 무기, 특성, 파티
