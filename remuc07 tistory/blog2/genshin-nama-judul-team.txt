@@ -19,9 +19,15 @@ Dendro -풀
 Anemo - 바람
 Geo - 바위
 
+Struktur Postingan
 
-[원신] "실로닌" 스펙: 성유물, , 육성, 재료, 무기, 파티, 특성
+[원신] "Karakter" 스펙: 성유물, , 육성, 재료, 무기, 파티, 특성
 
+Karakter 캐릭터 육성 소재
+Karakter 캐릭터 특성 소재
+Karakter 성유물
+Karakter 무기
+Karakter 파티 조합
 
 
 
